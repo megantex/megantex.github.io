@@ -1,0 +1,53 @@
+intro{
+     background-color:aqua;
+}
+
+h1{
+  font-family:"Apple Chancery";
+  font-style:italic;
+  font-weight:1;
+  font-size:50px;
+  color:rgb(0,50,100)
+}
+
+body{
+  background-color:#add8e6;
+}
+
+h2{
+  font-family:avenir;
+  line-height:.25;
+  color:rgb(0,100,200);
+}
+
+img{
+  align:center;}
+
+h3{
+  font-family:avenir;
+}
+
+ul{
+  font-family:avenir;
+}
+
+p{
+  font-family:avenir;
+}
+
+a{
+  text-decoration:none;
+  font-family:avenir;
+  font-style:oblique;
+  line-height:3;
+}
+
+nav a{
+    color: black;
+    font-style:normal;
+}
+
+a:hover{
+  font-size:30px;
+}
+
